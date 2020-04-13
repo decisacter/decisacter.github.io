@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[65],{186:function(e,n,t){"use strict";t.r(n);var s=function(){var e=this.$createElement;return(this._self._c||e)("span",{staticClass:"fa fa-user"})};s._withStripped=!0;var o=t(0),a=Object(o.a)({},s,[],!1,null,null,null);a.options.__file="docs/web/vue/components/FontAwesomeIcon.vue";n.default=a.exports}}]);

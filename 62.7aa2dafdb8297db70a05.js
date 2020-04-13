@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[62],{137:function(t,e,n){"use strict";n.r(e);var s=function(){var t=this.$createElement;return(this._self._c||t)("p",{staticClass:"foo bar"},[this._v("Hi")])};s._withStripped=!0;var o={},i=n(0),a=Object(i.a)(o,s,[],!1,null,null,null);a.options.__file="docs/web/vue/components/ClassComponent.vue";e.default=a.exports}}]);

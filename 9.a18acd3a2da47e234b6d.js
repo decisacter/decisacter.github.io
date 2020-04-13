@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{181:function(e,n,t){"use strict";t.r(n);var i=function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("Archive component")])};i._withStripped=!0;var o=t(0),c=Object(o.a)({},i,[],!1,null,null,null);c.options.__file="docs/web/vue/components/TabArchive.vue";n.default=c.exports}}]);
